@@ -1,0 +1,2 @@
+<?php
+$list = new List();
